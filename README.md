@@ -1,4 +1,4 @@
-# start-new-life
+# First GitHub Repository
 This is my first GitHub repository.    It's for learning purposes only
 
 I am trying to learn about open-source projects, products and tools.
